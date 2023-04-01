@@ -1,0 +1,225 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 0;
+    padding: 0;
+}
+.header{
+box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+padding: 11px;
+width: 100%;
+position: absolute;
+top: 0;
+left: 0;
+z-index: 100;
+
+}
+.header{
+display: flex;
+justify-content: space-between;
+text-align: center;
+align-items: center;
+font-size: 10px;
+}
+#logintext{
+margin-right: 20px;
+font-family: 'Times New Roman', Times, serif;
+font: 1em sans-serif;
+}
+#logintext a{
+text-decoration: none;
+color: rgb(14,110,197);;
+}
+#name{
+margin: 11px;
+}
+.icon a{
+text-decoration: none;
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 11.75px;
+font-weight: 400;
+font-style: normal;
+}
+.logo{
+margin-top: 45px;
+border: 0.5px solid gray;
+padding-bottom: 13px;
+margin-right: 10px;
+margin-left: 10px;
+}
+.logo img{
+padding-top: 20px;
+padding-left: 10px;
+width: 350px;
+height: 55px;
+}
+.container{
+border: 0.5px solid gray;
+margin-top: 10px;
+width: 665px;
+height: 700px;
+margin-left: 10px;
+}
+.site{
+font-size: 25px;
+color: rgb(33,37,41);
+padding-left: 15px;
+padding-top: 20px;
+}
+.notification1{
+border: 0.5px solid gray;
+margin-left: 15px;
+margin-top: 10px;
+width: 95%;
+height: 40%;
+border-radius: 2px;
+display: flex;
+}
+.notification1:hover{
+border : 1.5px solid rgb(14,110,197);;
+}
+.profile{
+border-radius: 50%;
+width: 5%;
+padding: 5px;
+}
+.text1{
+padding-top: 0px;
+padding-left: 2px;
+padding-right: 4px;
+font-weight: bold;
+font-size: 11px;
+}
+.text12{
+
+padding-left: 2px;
+
+font-size: 11px
+}
+#lms{
+color: rgb(14,110,197);
+}
+.text13{
+padding-left: 5px;
+font-size: 11px;
+}
+.pdf{
+width: 15px;
+height: 15px;
+padding-left: 45px;
+
+}
+#pdftext{
+padding-left: 5px;
+font-size: 11px;
+color: rgb(14,110,197);
+}
+.pdfandtext{
+display: flex;
+}
+.footertext{
+font-size: 11px;
+padding-left: 90%;
+color: rgb(14,110,197);;
+}
+.notification2{
+border: 0.5px solid gray;
+margin-left: 15px;
+margin-top: 10px;
+width: 95%;
+height: 40%;
+border-radius: 2px;
+}
+.notification2:hover{
+border : 1.5px solid rgb(14,110,197);;
+}
+.main{
+position: relative;
+overflow: hidden;
+display: flex;
+}
+.left-container{
+padding-top: 5px;
+border: 0.5px solid gray;
+width:29%;
+margin-left: 10px;
+margin-top: 10px;
+}
+.left-container p{
+padding-left: 10px;
+padding-top: 5px;
+font-size: 13px;
+
+}
+.cap{
+padding-top: 10px;
+padding-left: 10px;
+}
+.left-container a{
+text-decoration: none;
+font-size: 11px;
+color: rgb(14,110,197);
+
+}
+.link{
+line-height: 0.1;
+color: #0F6FC5;
+
+} 
+.end{
+font-size: 11px;
+padding-left: 15px;
+padding-top: 10px;
+color: dodgerblue;
+}
+footer{
+width: 100%;
+background-color: #343A40;
+height: 115px;
+margin-top: 20px;
+}
+.footerimg{
+width: 80px;
+}
+.last{
+padding-left: 100px;
+font-size: 12px;
+padding-top: 10px;
+color: white;
+text-decoration: underline;
+}
+#noneq{
+text-decoration: none;
+}
+.notification1 img{
+height: 32px;
+width: 32px;
+margin-left: 1.5px;
+}
+.notification1 .text1{
+margin-top: 7px;
+
+}
+.notification1 .text12{
+margin-top: 1px;
+}
+.notification1 .text13{
+margin-top: -15px;
+margin-left: -3px;
+}
+.footertext{
+margin-left: 260px;
+margin-top: 25px;
+}
+.text13 img{
+width: 16px;
+height: 16px;
+}
+.text13 span{
+color: rgb(14,110,197);
+margin-top: -2px;
+}
